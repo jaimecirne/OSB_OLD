@@ -1,0 +1,36 @@
+Total Alerta intervals = 9
+Mode = 698
+Total intervals above or below 1 minutes = 9
+Percent 9 /9 = 100.0%
+[698, 530, 1411, 669, 810, 4137, 622, 811, 41929]
+
+Total Ativo intervals = 4
+Mode = 182
+Total intervals above or below 1 minutes = 4
+Percent 4 /4 = 100.0%
+[182, 28, 11005, 38051]
+
+Total Quieto intervals = 8
+Mode = 889
+Total intervals above or below 1 minutes = 8
+Percent 8 /8 = 100.0%
+[889, 54, 73, 1425, 8, 4457, 2199, 169]
+
+Total QPC intervals = 4
+Mode = 2932
+Total intervals above or below 1 minutes = 4
+Percent 4 /4 = 100.0%
+[2932, 2509, 80, 36854]
+
+Total QMMD intervals = 1
+Mode = 6521
+Total intervals above or below 1 minutes = 1
+Percent 1 /1 = 100.0%
+[6521]
+
+Total REM intervals = 2
+Mode = 3149
+Total intervals above or below 1 minutes = 2
+Percent 2 /2 = 100.0%
+[3149, 36121]
+
